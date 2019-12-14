@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936168428913",
+    "firebase_url": "https://sorianog-snappy.firebaseio.com",
+    "project_id": "sorianog-snappy",
+    "storage_bucket": "sorianog-snappy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936168428913:android:2e2210c760b69da3dfd2d0",
+        "android_client_info": {
+          "package_name": "com.sorianog.snappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936168428913-jmm2uca3l34aqh92u8tj8f9rcvbn57pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sorianog.snappy",
+            "certificate_hash": "52b05814155646948a01d30215e790438a354a42"
+          }
+        },
+        {
+          "client_id": "936168428913-jdjpsbpqjbnsqjbbggn97e2bjrc66jig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDttV1alDq_R5tyGyP35xKJ9x1Bvs5VVB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936168428913-jdjpsbpqjbnsqjbbggn97e2bjrc66jig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
