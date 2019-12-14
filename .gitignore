@@ -30,8 +30,17 @@ proguard/
 # Log Files
 *.log
 
-# Android Studio Navigation editor temp files
+# Android Studio from http://gitignore.io/api/androidstudio
+/*/build/
+/*/local.properties
+/*/out
+/*/*/build
+/*/*/production
+captures/
 .navigation/
+*.ipr
+*~
+*.swp
 
 # Android Studio captures folder
 captures/
